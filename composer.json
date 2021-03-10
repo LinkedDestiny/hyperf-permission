@@ -9,10 +9,11 @@
         }
     ],
     "require": {
-        "php": "^7.2",
-        "ext-swoole": ">=4.5",
-        "hyperf/db-connection": "^2.0",
-        "hyperf/config": "~2.0.0",
+        "php": "^7.4",
+        "ext-swoole": ">=4.6",
+
+        "hyperf/db-connection": "^2.1",
+        "hyperf/config": "~2.1.0",
         "casbin/casbin": "^2.2"
     },
     "autoload": {
